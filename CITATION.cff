@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "AI search research: ChatGPT interface vs API, and AI search volume"
+message: "If you use this data, please cite it as below."
+type: dataset
+authors:
+  - name: Recomma
+    website: "https://recomma.ai"
+url: "https://recomma.ai/blog/chatgpt-interface-vs-api"
+repository-code: "https://github.com/RecommaAI/ai-search-research"
+license: CC-BY-4.0
+date-released: "2026-10-18"
+keywords:
+  - generative engine optimization
+  - AI search
+  - ChatGPT
+  - citations
+  - AI visibility
